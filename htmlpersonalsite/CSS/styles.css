@@ -1,0 +1,88 @@
+/***************TAGS****************/
+ body {
+  background-color: #f1f3f8;
+  }
+
+ hr {
+   border-style: none;
+   border-top-style: dotted;
+   border-color: #8d93ab;
+   border-width: 7px;
+   width: 8%
+  }
+
+ h1 {
+   text-align: center;
+   color: #393b44;
+   font-family: sans-serif;
+  }
+ h2 {
+   text-align: center;
+   color: #393b44;
+   font-family: sans-serif;
+  }
+ h3 {
+   text-align: center;
+   color: #393b44;
+   font-family: sans-serif;
+ }
+
+ p {
+   text-align: center;
+   font-family: sans-serif;
+ }
+
+ ul {
+   vertical-align: top;
+ }
+
+ table {
+   margin-left: 20%;
+   margin-right: 20%;
+   width: 70%;
+ }
+ thead {
+   text-align: center;
+   font-family: sans-serif;
+ }
+ td {
+   text-align: left;
+   vertical-align: top;
+   font-family: sans-serif;
+   padding: 15px;
+ }
+ label {
+   padding: 5px;
+ }
+/*********** Classes *********/
+
+ .BSP {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+ }
+ .bio {
+   padding-right: 300px;
+   padding-left: 300px;
+ }
+ .dates {
+   width: 18%;
+ }
+ .language {
+   margin-left: 15%;
+   margin-right: auto;
+ }
+.contact {
+  text-align: center;
+  padding: 10px;
+}
+.mess {
+  margin: 0 450px 0 450px;
+}
+.sub {
+  position: relative;
+  right: 5px
+}
+.words {
+  padding: 5px;
+}
